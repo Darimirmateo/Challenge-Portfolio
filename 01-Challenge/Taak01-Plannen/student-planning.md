@@ -12,15 +12,30 @@
 
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
-| Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Planning    | Planning maken                                 | 00:30 u             | voldaan|
+| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             |        | 
+ | 1-code      | software code (html)                           | 00:30 u             |        | 
+ | 2-code      | software code (css)                            | 00:30 u             |        |
+ | 3-code      | software code (js)                             | 00:30 u             |        |  
+| ...         | Styling van elementen bepalen                  | 01:00 u             |        |
+ | 4-css       | software styling (css)                        | 00:30 u             |        | 
+
+
+
+| Realiseren  | Bestanden aanmaken                             | 01:30 u             |        |
+ | 5-css       | software styling (css)                        | 00:30 u             |        | 
+ | 6-code      | software code (html)                           | 00:30 u             |        | 
+ | 7-code      | software code (css)                            | 00:30 u             |        |
+ | 8-code      | software code (js)                             | 00:30 u             |        |  
+
+| Testen      | Applicatie testen                              | 00:30 u             |        |
+|  9-css       | software styling (css)                        | 00:30 u             |        | 
+ | 10-code     | software code (html)                           | 00:30 u             |        | 
+ | 11-code     | software code (css)                            | 00:30 u             |        |
+ | 12-code     | software code (js)                             | 00:30 u             |        |  
+
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:00 u             |        |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Presenteren |                                                | 00:30 u             |        |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Refecteren  | Reflectiedocument schrijven                    | 00:30 u             |        |
