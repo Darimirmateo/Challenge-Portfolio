@@ -13,8 +13,8 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | voldaan|
-| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             |        | 
- | 1-code      | software code (html)                           | 00:4 u             |        | 
+| Ontwerpen   | Mockup van portfolio maken                     | 00:45 u             |        | 
+ | 1-code      | software code (html)                           | 00:45 u             |        | 
  | 2-code      | software code (css)                            | 00:30 u             |        |
  | 3-code      | software code (js)                             | 00:40 u             |        |  
  | elemtent    | Styling van elementen bepalen                  | 01:00 u             |        |
