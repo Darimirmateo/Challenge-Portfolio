@@ -22,7 +22,7 @@
 
 
 
-| Realiseren  | Bestanden aanmaken                             | 01:30 u             |        |
+| Realiseren  | Bestanden aanmaken                             | 01:00 u             |        |
  | 5-css       | software styling (css)                        | 00:30 u             |        | 
  | 6-code      | software code (html)                           | 00:30 u             |        | 
  | 7-code      | software code (css)                            | 00:30 u             |        |
@@ -36,6 +36,6 @@
 
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:00 u             |        |
 | ...         |                                                |                     |        |
-| Presenteren |                                                | 00:30 u             |        |
+| Presenteren | software presenteren                           | 00:30 u             |        |
 | ...         |                                                |                     |        |
 | Refecteren  | Reflectiedocument schrijven                    | 00:30 u             |        |
