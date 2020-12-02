@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+}
+
+
+h4 {
+}
+
+table, th, td, tr {
+border: 1px solid black;
+padding: 40px;
+size: 150px;
+}
+table {
+border-spacing: 15px;
+size: 75px;
+}
