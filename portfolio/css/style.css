@@ -1,9 +1,9 @@
 body {
-    background-color: cadetblue;
+    background-color: magenta;
 }
 
 
-h4 {
+h4, h1, h3 {
 }
 
 table, th, td, tr {
@@ -14,4 +14,47 @@ size: 150px;
 table {
 border-spacing: 15px;
 size: 75px;
+}
+
+header {
+    size: 40px;
+    font-size: large;
+    border: 2px;
+    margin-top: 40px;
+    color:black;
+}
+
+#parent {
+    background-color: black;
+}
+
+.children{
+    padding: 5px;
+}
+
+.parent{
+    background-color: violet;
+    color: blue;
+}
+
+#child-1{
+    background-color: rgb(143, 197, 61);
+    
+}
+
+#child-2{
+    background-color:gray;
+   
+}
+
+#child-3{
+    background-color: slateblue;
+
+   
+}
+
+#child-4{
+    background-color: lightblue;
+    
+   
 }
