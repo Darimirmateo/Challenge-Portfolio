@@ -2,8 +2,7 @@
   let bezoeker = {
      
    
-   voornaam: prompt("Wat is je voornaam?"),
-   achternaam: prompt("wat is je achternaam"),  
+   naam: prompt("Wat is je naam?"), 
    leeftijd: prompt ("wat is je leeftijd"),
   
 }
@@ -12,34 +11,28 @@ console.log(bezoeker);
 
 
 
-document.querySelector("h1").innerHTML = bezoeker.voornaam + " " + bezoeker.achternaam;
-document.querySelector("#voornaam").innerHTML = bezoeker.voornaam;
-document.querySelector("#achternaam").innerHTML = bezoeker.achternaam;
-document.querySelector("#woonplaats").innerHTML = bezoeker.woonplaats;
+document.querySelector("h1").innerHTML = bezoeker.naam;
 
-GIT
+
+
 
 
 if (bezoeker.leeftijd==18){  
-   document.querySelector("body").style.backgroundColor="gold";
+   document.querySelector("h1").style.backgroundColor="green";
+   console.log("de color is green")
 }
-if (bezoeker.leeftijd==oranjekleur){
-   document.querySelector("body").style.backgroundColor="orange";
-}
-if (bezoeker.leeftijd==17){
-   document.querySelector("body").style.backgroundColor="blue";
-}
-if (bezoeker.leeftijd==19){
-   document.querySelector("body").style.backgroundColor="green";
-   console.log("de color is green");
-}
+
 
 if (bezoeker.leeftijd==""){
-   document.querySelector("body").style.backgroundColor="red";
+   document.querySelector("h1").style.backgroundColor="red";
 }
 
 
 
 
 
+
+
+
+ 
 
