@@ -1,4 +1,4 @@
-//TODO: met prompt bezoeker info opslaan in object persoon
+
   let bezoeker = {
      
    

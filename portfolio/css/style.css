@@ -17,7 +17,7 @@ size: 150px;
  
 
   body {
-    background: radial-gradient(ellipse at top, #1b2735 0%, #ffffff 100%);
+    background: radial-gradient(ellipse at top, blue 0%, #ffffff 100%);
   
     overflow: hidden;
     display: flex;
@@ -70,6 +70,13 @@ size: 150px;
   p {
 
     margin top: 25px;
+  }
+
+  h1 {
+    inline-size: auto;
+    color:blue;
+
+
   }
 
   
