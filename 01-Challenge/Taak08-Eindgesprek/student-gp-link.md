@@ -4,4 +4,4 @@ Student : `Darimir Mateo`
 
 Klas    : `LCTAOO0D`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [darimir mateo](https://darimirmateo.github.io/Challenge-Portfolio/portfolio)
