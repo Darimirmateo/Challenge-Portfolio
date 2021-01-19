@@ -19,21 +19,16 @@
  | 3-code      | software code (js)                             | 00:40 u             |        |  
  | elemtent    | Styling van elementen bepalen                  | 01:00 u             |        |
  | 4-css       | software styling (css)                        | 00:30 u             |        | 
-
-
-
 | Realiseren  | Bestanden aanmaken                             | 01:00 u             |        |
  | 5-css       | software styling (css)                        | 00:30 u             |        | 
  | 6-code      | software code (html)                           | 00:30 u             |        | 
  | 7-code      | software code (css)                            | 00:30 u             |        |
  | 8-code      | software code (js)                             | 00:30 u             |        |  
-
 | Testen      | Applicatie testen                              | 00:30 u             |        |
 |  9-css       | software styling (css)                        | 00:30 u             |        | 
  | 10-code     | software code (html)                           | 00:30 u             |        | 
  | 11-code     | software code (css)                            | 00:30 u             |        |
  | 12-code     | software code (js)                             | 00:30 u             |        |  
-
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:00 u             |        |
 | ...         |                                                |                     |        |
 | Presenteren | software presenteren                           | 00:30 u             |        |
